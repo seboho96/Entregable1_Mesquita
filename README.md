@@ -1,0 +1,1 @@
+Football Match Score Simulator - A simple JavaScript application that simulates a football match between two teams. Users can enter the names of the teams, and the app randomly generates match scores. It then announces the winner or if the match ends in a draw. Perfect for fun simulations!
